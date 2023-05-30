@@ -1,0 +1,1 @@
+{"name":"Local: 3_ConnectedComponent","url":"c:\\Users\\Pratik\\Documents\\Grpahs-Codes\\3_ConnectedComponent.cpp","tests":[{"id":1685444279803,"input":"8 5\n1 2\n2 3\n2 4\n3 5\n6 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pratik\\Documents\\Grpahs-Codes\\3_ConnectedComponent.cpp","group":"local","local":true}
